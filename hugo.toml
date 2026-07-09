@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = 'FFmpig的个人网站'
+theme = 'Stack'
