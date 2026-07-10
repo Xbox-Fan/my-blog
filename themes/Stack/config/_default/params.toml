@@ -99,7 +99,7 @@ SortBy         = "default"
 
 [comments]
     enabled  = true
-    provider = "disqus"
+    provider = "giscus"
 
     [comments.artalk]
         serverUrl = ""
