@@ -18,7 +18,7 @@ SortBy         = "default"
     avatar  = ""
 
 [article]
-    headingAnchor = false
+    headingAnchor = true
     math          = true
     toc           = true
     readingTime   = true
@@ -47,7 +47,7 @@ SortBy         = "default"
         # darkThemeVariables = { primaryColor = "#00ff00" }
         # Security level: strict (default), loose, antiscript, sandbox
         # Set to "loose" to enable HTML labels like <br/>
-        securityLevel         = "strict"
+        securityLevel         = "loose"
         # Enable HTML labels in diagrams (requires securityLevel: loose)
         htmlLabels            = true
         # Make diagram backgrounds transparent (default: false)
@@ -75,7 +75,7 @@ SortBy         = "default"
     default = "auto"
 
 [imageProcessing]
-    autoOrient = false
+    autoOrient = true
 
     [imageProcessing.external]
         timeout = "5s"
