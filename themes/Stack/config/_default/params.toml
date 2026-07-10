@@ -174,9 +174,7 @@ SortBy         = "default"
         inputPosition = "bottom"      # 对应 data-input-position="bottom"
         theme = "preferred_color_scheme"
         lang = "zh-cn"   
-        strict           = 0
-        loading          = "lazy"
-
+        
     [comments.gitalk]
         owner        = ""
         admin        = ""
