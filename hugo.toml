@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ffmpig.pages.dev/'
 languageCode = 'zh-cn'
 title = 'FFmpig的个人网站'
 theme = 'Stack'
