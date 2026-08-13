@@ -172,8 +172,10 @@ SortBy         = "default"
         reactionsEnabled = true       # 对应 data-reactions-enabled="1"
         emitMetadata = false          # 对应 data-emit-metadata="0"
         inputPosition = "bottom"      # 对应 data-input-position="bottom"
-        theme = "preferred_color_scheme"
-        lang = "zh-cn"   
+        lightTheme = "light"          # 浅色模式主题
+        darkTheme = "dark"            # 深色模式主题
+        lang = "zh-cn"
+        loading = "lazy"              # 可选：lazy, eager
         
     [comments.gitalk]
         owner        = ""
