@@ -98,8 +98,8 @@ SortBy         = "default"
         functional = true
 
 [comments]
-    enabled  = true
-    provider = "giscus"
+    enabled  = false
+    provider = ""
 
     [comments.artalk]
         serverUrl = ""
