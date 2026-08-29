@@ -1,0 +1,8 @@
+[comments]
+    enabled  = true
+    provider = "utterances"
+
+[comments.utterances]
+    repo = "Xbox-Fan/my-blog"
+    issueTerm = "pathname"
+    label = "Comments"
