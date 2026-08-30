@@ -3,6 +3,7 @@ date = 2026-07-10T08:38:29+08:00
 draft = false
 title = '终于建好了'
 keywords = ["前端开发","Hugo","整活"]
+description = "网站建立"
 +++
 
 经过与`Hugo`，`Github`，`Cloudflare`三只怪兽的决斗后，我的个人网站建好了
