@@ -1,8 +1,18 @@
 [comments]
-    enabled  = true
-    provider = "utterances"
+    enabled = true
+    provider = "giscus"
 
-[comments.utterances]
+[comments.giscus]
     repo = "Xbox-Fan/my-blog"
-    issueTerm = "pathname"
-    label = "Comments"
+    repoID = "R_kgDOTTWmHA"
+    category = "Announcements"
+    categoryID = "DIC_kwDOTTWmHM4DA4d2"
+    mapping = "pathname"
+    strict = false
+    reactionsEnabled = true
+    emitMetadata = false
+    inputPosition = "bottom"
+    lightTheme = "light"
+    darkTheme = "dark"
+    lang = "zh-cn"
+    loading = "lazy"
