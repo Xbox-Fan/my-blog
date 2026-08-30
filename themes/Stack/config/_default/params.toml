@@ -63,8 +63,35 @@ SortBy         = "default"
         caution   = "🚨"
 
 [widgets]
-    homepage = []
-    page     = []
+  # ==========================================
+  # 首页 (Homepage) 显示的小部件
+  # ==========================================
+  
+  # 1. 分类列表
+  [[widgets.homepage]]
+    type = "categories"
+    [widgets.homepage.params]
+      limit = 10  # 最多显示 10 个分类
+
+  # 2. 标签云
+  [[widgets.homepage]]
+    type = "tag-cloud"
+    [widgets.homepage.params]
+      limit = 15  # 最多显示 15 个标签
+
+  # ==========================================
+  # 文章页 (Page) 显示的小部件
+  # ==========================================
+  
+  # 3. 文章目录 (TOC)
+  [[widgets.page]]
+    type = "toc"
+
+  # 4. 分类列表 (在文章页也显示分类，方便读者浏览同分类文章)
+  [[widgets.page]]
+    type = "categories"
+    [widgets.page.params]
+      limit = 10
 
 [opengraph.twitter]
     site = ""
