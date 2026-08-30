@@ -90,7 +90,7 @@ SortBy         = "default"
 # GDPR Cookie Consent Configuration
 # When enabled, analytics and functional cookies require user consent
 [cookies]
-    enabled      = false
+    enabled      = true
     showSettings = true
 
     [cookies.categories]
