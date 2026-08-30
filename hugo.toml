@@ -4,3 +4,6 @@ title = 'FFmpig的个人网站'
 theme = 'Stack'
 [markup.goldmark.renderer]
     unsafe = true
+[taxonomies]
+  category = "categories"
+  tag      = "tags"
