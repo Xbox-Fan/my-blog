@@ -1,4 +1,6 @@
 baseURL = 'https://ffmpig.pages.dev/'
-locate = 'zh-cn'
+locate = 'zh-CN'
 title = 'FFmpig的个人网站'
 theme = 'Stack'
+[markup.goldmark.renderer]
+    unsafe = true
