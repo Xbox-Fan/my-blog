@@ -1,9 +1,9 @@
-baseURL                = "https://demo.stack.cai.im/"
-locale                 = "en-us"
+baseURL                = "https://ffmpig.pages.dev/"
+locale                 = "zh-CN"
 title                  = "Hugo Theme Stack"
 # Theme i18n support
 # See i18n folder for available languages
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-CN"
 # Set hasCJKLanguage to true if DefaultContentLanguage is a CJK language
 # This will make .Summary and .WordCount behave correctly
 hasCJKLanguage         = false
