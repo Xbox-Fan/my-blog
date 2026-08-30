@@ -1,3 +1,27 @@
+[params]
+    [params.csp]
+        # 允许样式来源：自己、内联、giscus、jsdelivr(主题用)、google字体
+        style = ["'self'", "'unsafe-inline'", "https://giscus.app", "https://cdn.jsdelivr.net", "https://fonts.googleapis.com"]
+        
+        # 允许脚本来源：自己、内联、eval、giscus、jsdelivr(主题用)
+        script = ["'self'", "'unsafe-inline'", "'unsafe-eval'", "https://giscus.app", "https://cdn.jsdelivr.net"]
+        
+        # 允许字体来源
+        font = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net"]
+        
+        # 允许图片来源
+        img = ["'self'", "data:", "https:", "http:"]
+        
+        # 允许连接来源（Giscus 需要）
+        connect = ["'self'", "https://giscus.app"]
+        
+        # 允许 iframe 来源（Giscus 评论框是 iframe，这个最关键！）
+        frame = ["'self'", "https://giscus.app"]
+        
+        # 允许被嵌入的来源
+        frameAncestors = ["'self'"]
+
+# 下面保留你之前的 comments 配置
 [comments]
     enabled = true
     provider = "giscus"
