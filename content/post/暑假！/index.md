@@ -3,6 +3,7 @@ date = 2026-08-29T21:00:25+08:00
 draft = false
 title = '暑假！'
 keywords = ["假期"]
+tags = ['暑假']
 description = '"缅怀"逝去的暑假'
 +++
 
