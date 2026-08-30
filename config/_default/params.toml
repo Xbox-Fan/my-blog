@@ -36,7 +36,6 @@
     reactionsEnabled = true
     emitMetadata = false
     inputPosition = "bottom"
-    lightTheme = "light"
-    darkTheme = "dark"
-    lang = "zh-cn"
+    theme = "preferred_color_scheme"
+    lang = "zh-CN"
     loading = "lazy"
