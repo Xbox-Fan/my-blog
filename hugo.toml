@@ -1,12 +1,11 @@
 baseURL = 'https://ffmpig.pages.dev/'
-locate = 'zh-CN'
+locale = 'zh-CN'
 title = 'FFmpig的个人网站'
 theme = 'Stack'
+
 [markup.goldmark.renderer]
     unsafe = true
+
 [taxonomies]
-  category = "categories"
-  tag      = "tags"
-[security]
-  [security.headers]
-    contentSecurityPolicy = "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://giscus.app https://cdn.jsdelivr.net https://cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdn.jsdelivr.net https://cdnjs.cloudflare.com; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net; img-src 'self' data: https: http:; connect-src 'self' https://giscus.app; frame-src 'self' https://giscus.app https://www.youtube.com https://player.bilibili.com; frame-ancestors 'self'"
+    category = "categories"
+    tag      = "tags"
