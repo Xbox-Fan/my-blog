@@ -3,6 +3,12 @@ locale = 'zh-CN'
 title = 'FFmpig的个人网站'
 theme = 'Stack'
 
+# 设置默认语言
+defaultContentLanguage = "zh"
+# 是否在 URL 中显示语言前缀（例如：example.com/zh/ 和 example.com/en/）
+# 如果只有一种语言，通常设为 false；多语言建议设为 true
+defaultContentLanguageInSubdir = false
+
 [markup.goldmark.renderer]
     unsafe = true
 
