@@ -7,7 +7,7 @@ categories = ['生日']
 tags = []
 +++
 
-# 4个AI祝自己生日快乐
+# 5个AI祝自己生日快乐
 
 ## ChatGPT
 
