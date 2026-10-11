@@ -1,11 +1,12 @@
-+++
-date = 2026-09-13T17:48:55+08:00
-draft = false
-title = '祝自己生日快乐'
-description = '一年一度的生日来了又马上走了'
-categories = ['生日']
-tags = []
-+++
+---
+date: '2026-09-13T17:48:55+08:00'
+draft: false
+title: 祝自己生日快乐
+description: 一年一度的生日来了又马上走了
+categories:
+- 生日
+tags: []
+---
 
 # 5个AI祝自己生日快乐
 

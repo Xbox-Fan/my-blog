@@ -1,12 +1,12 @@
-+++
-date = 2026-08-31T09:03:42+08:00
-draft = true
-title = '一切景语皆情语'
-description = '暑假大事记第一篇'
-image = ''
-categories = []
-tags = []
-+++
+---
+date: '2026-08-31T09:03:42+08:00'
+draft: true
+title: 一切景语皆情语
+description: 暑假大事记第一篇
+image: ''
+categories: []
+tags: []
+---
 
 # 可恶的夏令营
 

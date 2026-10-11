@@ -1,11 +1,13 @@
-+++
-date = 2026-09-13T16:46:56+08:00
-draft = false
-title = '用物联网的一点点知识，助力课堂管理'
-description = ''
-categories = ['编程']
-tags = ['整活']
-+++
+---
+date: '2026-09-13T16:46:56+08:00'
+draft: false
+title: 用物联网的一点点知识，助力课堂管理
+description: ''
+categories:
+- 编程
+tags:
+- 整活
+---
 
 # 用物联网的一点点知识，助力课堂管理
 

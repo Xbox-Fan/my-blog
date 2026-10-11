@@ -1,12 +1,14 @@
-+++
-date = 2026-08-31T09:03:42+08:00
-draft = false
-title = '“任何可以用 JavaScript 编写的应用，最终都必将用 JavaScript 编写。”'
-description = '在浏览器中的 Minecraft 26.2'
-image = 'assets/cf45928f8c6db55aab9e1675e3af7ec6a5e5157c.png'
-categories = ['编程']
-tags = ['游戏']
-+++
+---
+date: '2026-08-31T09:03:42+08:00'
+draft: false
+title: “任何可以用 JavaScript 编写的应用，最终都必将用 JavaScript 编写。”
+description: 在浏览器中的 Minecraft 26.2
+image: assets/cf45928f8c6db55aab9e1675e3af7ec6a5e5157c.png
+categories:
+- 编程
+tags:
+- 游戏
+---
 
 # *"Anything that can be written in JavaScript will eventually be written in JavaScript."*
 

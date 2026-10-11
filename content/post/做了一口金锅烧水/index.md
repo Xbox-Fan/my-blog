@@ -1,11 +1,14 @@
-+++
-date = 2026-08-30T12:22:12+08:00
-draft = false
-title = '做了一口金锅烧水'
-description = 'The Powder Toy是个好东西'
-categories = ['软件']
-tags = ['整活','游戏']
-+++
+---
+date: '2026-08-30T12:22:12+08:00'
+draft: false
+title: 做了一口金锅烧水
+description: The Powder Toy是个好东西
+categories:
+- 软件
+tags:
+- 整活
+- 游戏
+---
 
 # 做了一口金锅烧水
 
