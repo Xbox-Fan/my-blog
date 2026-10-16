@@ -15,5 +15,5 @@ defaultContentLanguageInSubdir = false
 [taxonomies]
     category = "categories"
     tag      = "tags"
-# 忽略 templates 文件夹和 obsidian 配置文件夹
-ignoreFiles = ["templates/", "\\.obsidian/"]
+    # 在文件任意位置添加这一行
+ignoreFiles = ["/templates/"]

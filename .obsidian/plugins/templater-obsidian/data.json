@@ -1,7 +1,7 @@
 {
   "data_version": 2,
   "command_timeout": 5,
-  "templates_folder": "templates",
+  "templates_folder": "",
   "templates_pairs": [],
   "trigger_on_file_creation_mode": "folder",
   "auto_jump_to_cursor": false,
@@ -11,7 +11,7 @@
   "folder_templates": [
     {
       "folder": "/",
-      "template": "templates/Hugo Post Template.md.md"
+      "template": "Hugo Post Template.md"
     }
   ],
   "file_templates": [],
@@ -20,9 +20,5 @@
   "enabled_templates_hotkeys": [],
   "startup_templates": [],
   "intellisense_render": "1",
-  "ignore_folders_on_creation": [
-    {
-      "folder": "templates"
-    }
-  ]
+  "ignore_folders_on_creation": []
 }
